@@ -10,8 +10,9 @@
 .contact-item {
   font-family: cursive;
   display: flex;
-  gap: 15px;
+  width: 350px;
   align-items: center;
+  justify-content: space-between;
 }
 
 .button {
